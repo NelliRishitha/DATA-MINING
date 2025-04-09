@@ -10,7 +10,7 @@
 Identify correlations between variables.
 Use Pandas profiling or custom scripts for EDA.
 Analyze trends, patterns, and outliers in the dataset
-6. [Lab_06](https://github.com/NelliRishitha/DATA-MINING/blob/main/Lab_07(dm).ipynb):Data Transformation
+6. [Lab_06](https://github.com/NelliRishitha/DATA-MINING/blob/main/Lab_06(dm).ipynb):Data Transformation
 Perform data encoding (one-hot encoding, label encoding).
 Create new derived columns using existing data (e.g., age from a date of birth).
 Group and aggregate data using groupby and pivot_table.
