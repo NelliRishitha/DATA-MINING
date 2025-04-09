@@ -15,4 +15,4 @@ Perform data encoding (one-hot encoding, label encoding).
 Create new derived columns using existing data (e.g., age from a date of birth).
 Group and aggregate data using groupby and pivot_table.
 7. [Lab_07](https://github.com/NelliRishitha/DATA-MINING/blob/main/Lab_07(dm_new).ipynb):Linera Regression
-8. [Lab_08].(https://github.com/NelliRishitha/DATA-MINING/blob/main/Lab_08(dm).ipynb): multiple linear regression model on a real dataset
+8. [Lab_08](https://github.com/NelliRishitha/DATA-MINING/blob/main/Lab_08(dm).ipynb): multiple linear regression model on a real dataset
